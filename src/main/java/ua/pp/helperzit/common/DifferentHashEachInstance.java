@@ -1,4 +1,4 @@
-package ua.pp.helperzit.tasks;
+package ua.pp.helperzit.common;
 
 import java.util.HashMap;
 import java.util.Map;
